@@ -15,3 +15,5 @@ awk '{print $1, $2^2}' data1.txt >tmp
 mv tmp data.txt
 
 echo done >> data1.txt
+# This is Lucie's new comment
+
