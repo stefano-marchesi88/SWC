@@ -3,6 +3,7 @@
 # Hint: You can take our simple_forloop.sh, cat that into generate_data.sh, and add to one of the lines to complete this exercise
 
 # Just a new comment
+# This is fun
 
 for i in {1..10};
 do
